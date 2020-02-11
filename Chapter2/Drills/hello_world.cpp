@@ -1,4 +1,4 @@
-#include "C:\Users\asara\OneDrive\Desktop\GitHub\cpptextbook\Chapter2\std_lib_facilities.h.txt"
+#include "../cpptextbook/std_lib_facilities.h.txt"
 
 int main()
 {
