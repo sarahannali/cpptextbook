@@ -3,6 +3,16 @@
         "string": "cpp",
         "*.txt": "cpp",
         "iostream": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "array": "cpp",
+        "forward_list": "cpp",
+        "hash_map": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "regex": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "xhash": "cpp",
+        "xmemory0": "cpp"
     }
 }
